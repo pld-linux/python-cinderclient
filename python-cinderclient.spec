@@ -8,7 +8,7 @@
 Summary:	OpenStack Block Storage API Client Library
 Name:		python-cinderclient
 Version:	3.1.0
-Release:	4
+Release:	5
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/python-cinderclient/%{name}-%{version}.tar.gz
